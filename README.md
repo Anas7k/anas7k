@@ -30,7 +30,8 @@
 ### 🖱 Languages and Tools
   <p align="left">  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="100" height="100"/> </a>   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="100" height="100"/> </a>  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode width="100" height="100" "   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github width="100" height="100" " /> </ul>
+    <img src="https://skillicons.dev/icons?i=github width="100" height="100" " <a href="https://www.https://replit.com/" target="_blank" rel="noreferrer">>
+    <img src="https://skillicons.dev/icons?i=replit width="100" height="100" "/> </ul>
 
 
 
