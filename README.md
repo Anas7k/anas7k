@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me [Anas Ahmed](**anas.74k@gmail.com**)
+- 📫 How to reach me [Anas Ahmed](anas.74k@gmail.com)
 
 
 <p align="left">
