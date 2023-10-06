@@ -13,13 +13,11 @@
 
 - 🧠 I’m currently learning **Web Development** By My Self 
 
-- 👨‍💻 All of my projects are available at [Anas Ahmed]([https://www.github.com/Anas7k](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRtsFfCzRBqjWpjXsGpHgXgMDmnJsfbSBLHkBbQrNLMPxTgxxckqMcnPRJpJCCCMDMxnkjQ))
+- 👨‍💻 All of my projects are available at [Anas ahmed](https://www.github.com/Anas7k)
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me [Anas Ahmed](https://mail.google.com/anas.74k@gmail.com)
-
-
+- 📫 How to reach me <a href="mailto:anas.74k@gmail.com" target="blank">Anas Ahmed
 <p align="left">
 </p>
 <br><br>
