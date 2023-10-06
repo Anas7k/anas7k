@@ -13,7 +13,7 @@
 
 - 🧠 I’m currently learning **Web Development** By My Self 
 
-- 👨‍💻 All of my projects are available at [Anas Ahmed](https://www.github.com/Anas7k)
+- 👨‍💻 All of my projects are available at [Anas Ahmed]([https://www.github.com/Anas7k](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRtsFfCzRBqjWpjXsGpHgXgMDmnJsfbSBLHkBbQrNLMPxTgxxckqMcnPRJpJCCCMDMxnkjQ))
 
 - 💬 Ask me about **Python**
 
