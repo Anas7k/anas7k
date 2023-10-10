@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif"><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anas7k&label=Profile%20views&color=0e75b6&style=flat" alt="anas7k" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anas7k&label=Profile%20views&color=0e75b6&style=flat" alt="anas7k" /> 
 
 
 - 🧠 I’m currently learning **Web Development** By My Self 
