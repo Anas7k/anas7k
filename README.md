@@ -12,7 +12,7 @@
 
 
 
-- 🧠 I’m currently learning **Web Development** By My Self 
+- 🧠 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [Anas ahmed](https://www.github.com/Anas7k)
 
