@@ -12,7 +12,7 @@
 
 
 
-- 🧠 I’m a **Web Development**
+- 🧠 I’m a **Web Developer**
 
 - 👨‍💻 All of my projects are available at [Anas ahmed](https://www.github.com/Anas7k)
 
