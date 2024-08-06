@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Anas Ahmed</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum;Self-taught+Python+Learner;Now+Learning+Web-Development;Active+Learner+and+Researcher;deeply+passionate+about+programming"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum;Web+Developer+;Active+Learner+and+Researcher;deeply+passionate+about+programming"></a>
 
 </p>
 
@@ -12,11 +12,11 @@
 
 
 
-- 🧠 I’m currently learning **Web Development**
+- 🧠 I’m a **Web Development**
 
 - 👨‍💻 All of my projects are available at [Anas ahmed](https://www.github.com/Anas7k)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Web development**
 
 - 📫 How to reach me <a href="mailto:anas.74k@gmail.com" target="blank">Anas Ahmed
 <p align="left">
